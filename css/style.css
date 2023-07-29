@@ -40,7 +40,7 @@ main {
     background-repeat: no-repeat;   
     filter: blur(10px);
     background-size: 100% 100%;
-    opacity: 0.15;
+    opacity: 0.35;
     transform: translateY(-100%)
       translateY(88px)
       translateZ(0);
